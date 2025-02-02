@@ -37,17 +37,13 @@ Shift Clears everything
 
 
 
-Client + Host Coming soon
+Client + Host NOT COMING
 
 What is a Client + Host KLFN and how is it different?
 The client is the one that goes on the Want to be key logged machine; The host is you or someone else that the key logged data is sent to.
 
 When will C + H Version be released?
-Not anytime soon but expected near july 2023.
-
-How will you make the C + H Version legal?
-As you know this kinda thing isnt legal so KLFN C + H Will Not be released publicly we will release it privately to buisnessed for logging employes and students
-but... There will be a public C + H Version With high security features and for obvious reasons this will also not be open source thank you for your feedback.
+Not planned to ever become a thing
 
 
 
